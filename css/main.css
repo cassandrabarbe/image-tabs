@@ -1,12 +1,12 @@
-.panel{
+.panel {
   display: none;
 }
 
-.panel:target{
+.panel:target {
   display: block;
 }
 
-a{
+a {
   display: inline-block;
   width: 15px;
   height: 15px;
@@ -14,11 +14,11 @@ a{
   border-radius: 10px;
 }
 
-a:hover{
+a:hover {
   border: 3px solid black;
 }
 
-.circle{
+.circle {
   text-align:center;
   width: 40%;
   padding-top: 1.1em;
